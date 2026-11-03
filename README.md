@@ -1,7 +1,3 @@
-Here is the README.md content for your WaterBuddy project, without the references section. You can copy and paste it directly into your `README.md` file.
-
-
-
 # 💧 WaterBuddy – Your Daily Hydration Companion
 
 ## 📌 Project Overview
